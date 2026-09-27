@@ -1,0 +1,6 @@
+{
+  "name": "MediCare",
+  "description": "Your medicines. Your schedule. Your health. Modern, clean medicine reminder and information app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
